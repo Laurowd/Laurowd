@@ -53,7 +53,7 @@ Atualmente, dedico grande parte dos meus estudos à área de **Sistemas Embarcad
 ---
 
 ### 🎲 Além do Código
-Nas horas vagas, acompanho as temporadas de **Fórmula 1**, mestro campanhas de **RPG de Mesa** (Shadowdark, Ordem Paranormal, D&D) e exploro o uso de IA generativa para worldbuilding e criatividade.
+Nas horas vagas, acompanho as temporadas de **Fórmula 1**, mestro campanhas de **RPG de Mesa** (Shadowdark, D&D, ACKS II) e exploro o uso de IA generativa para worldbuilding e criatividade.
 
 ---
 📫 **Vamos nos conectar?** Sinta-se à vontade para explorar meus repositórios ou entrar em contato!
