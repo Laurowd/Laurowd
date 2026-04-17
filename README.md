@@ -2,7 +2,7 @@
 
 ### Desenvolvedor de Software | Sistemas Embarcados & Full-Stack
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFCE e um desenvolvedor apaixonado por entender a tecnologia de ponta a ponta — desde a manipulação direta de registradores e firmware até a construção de ecossistemas web escaláveis e interfaces modernas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFCE e um desenvolvedor apaixonado por entender a tecnologia de ponta a ponta desde a manipulação direta de registradores e firmware até a construção de ecossistemas web escaláveis e interfaces modernas.
 
 Atualmente, dedico grande parte dos meus estudos à área de **Sistemas Embarcados**, focando no ecossistema do Raspberry Pi Pico (RP2040) e na programação *bare-metal* de alta performance.
 
