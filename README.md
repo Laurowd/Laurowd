@@ -9,10 +9,25 @@ Atualmente, dedico grande parte dos meus estudos à área de **Sistemas Embarcad
 ---
 
 ### 🚀 O que estou fazendo agora
-- 🔬 **Sistemas Embarcados:** Atuando como Residente pelo programa EmbarcaTech (MCTI), desenvolvendo firmware avançado em **C/C++**.
-- 🛠️ **Projetos de Baixo Nível:** Implementando sistemas não-bloqueantes com DMA, PIO e protocolos de comunicação (I2C, UART, SPI, PWM).
+- 🌱 **EmbarcaTech:** Residente em Sistemas Embarcados, desenvolvendo um projeto aplicado para **fazendas verticais** com foco em automação, sensores e IoT.
+- 🔬 **Sistemas Embarcados:** Estudando firmware em **C/C++**, microcontroladores, interrupções, ADC, PWM e comunicação com periféricos.
+- 🛠️ **Projetos de Baixo Nível:** Explorando aplicações com **RP2040**, PIO, DMA, I2C, UART e SPI.
+- 🌐 **Full-Stack & Backend:** Construindo APIs e interfaces com **TypeScript, Node.js, PostgreSQL e Vue.js**.
 - 💻 **Ambiente de Trabalho:** Usuário diário de Linux (Pop!_OS), CMake e controle de versão semântico.
-- 🌍 **Objetivo:** Aprimorando meu inglês técnico com foco em oportunidades globais e colaborações internacionais.
+
+### 🌱 Experiência Prática Atual
+
+**Residente em Sistemas Embarcados - EmbarcaTech**  
+Residência tecnológica remunerada com foco em sistemas embarcados e IoT.
+
+Atualmente, estou desenvolvendo um projeto aplicado para **fazendas verticais**, envolvendo automação, monitoramento e controle de variáveis ambientais. O projeto conecta firmware, sensores, atuadores e lógica de controle para ambientes agrícolas controlados.
+
+**Principais aprendizados e atividades:**
+- Desenvolvimento em **C/C++** para microcontroladores.
+- Leitura de sensores e controle de atuadores.
+- Uso de periféricos e protocolos como **GPIO, ADC, PWM, I2C, UART e SPI**.
+- Aplicação de conceitos de **IoT, automação e sistemas embarcados**.
+- Versionamento com **Git** e organização de projeto com **CMake**.
 
 ### 🛠️ Minhas Tecnologias & Ferramentas
 
