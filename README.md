@@ -13,7 +13,7 @@ Atualmente, dedico grande parte dos meus estudos à área de **Sistemas Embarcad
 - 🔬 **Sistemas Embarcados:** Estudando firmware em **C/C++**, microcontroladores, interrupções, ADC, PWM e comunicação com periféricos.
 - 🛠️ **Projetos de Baixo Nível:** Explorando aplicações com **RP2040**, PIO, DMA, I2C, UART e SPI.
 - 🌐 **Full-Stack & Backend:** Construindo APIs e interfaces com **TypeScript, Node.js, PostgreSQL e Vue.js**.
-- 💻 **Ambiente de Trabalho:** Usuário diário de Linux (Pop!_OS), CMake e controle de versão semântico.
+- 💻 **Ambiente de Trabalho:** Usuário diário de Linux (CachyOS), CMake e controle de versão semântico.
 
 ### 🌱 Experiência Prática Atual
 
