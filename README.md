@@ -66,9 +66,4 @@ Atualmente, estou desenvolvendo um projeto aplicado para **fazendas verticais**,
 * **Destaques:** Controle de matriz WS2812B via **PIO e DMA**, renderização OLED via I2C, filtragem de ADC para Joystick e FSM via interrupções de hardware.
 
 ---
-
-### 🎲 Além do Código
-Nas horas vagas, acompanho as temporadas de **Fórmula 1**, mestro campanhas de **RPG de Mesa** (Shadowdark, D&D, ACKS II) e exploro o uso de IA generativa para worldbuilding e criatividade.
-
----
 📫 **Vamos nos conectar?** Sinta-se à vontade para explorar meus repositórios ou entrar em contato!
